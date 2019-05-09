@@ -1,5 +1,7 @@
 # 2018-Project
 Projects accomplished during 2018.
+## 2018-Recommendation-Business-Project
+* [Linkshops Recommendation System](https://github.com/julysoom/2018-Project/tree/master/2018-Recommendation-Business-Project)
 ## 2018-AI-Daejon
 * [Screw Defect Detection](https://github.com/julysoom/2018-Project/tree/master/2018-AI-Daejon/Screw-Defect-Detection)
 * [Recommendation Exercise](https://github.com/julysoom/2018-Project/tree/master/2018-AI-Daejon/Recommendation-Excercise)
