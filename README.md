@@ -3,6 +3,8 @@ Projects accomplished during 2018.
 ## 2018-AI-Daejon
 * [Screw Defect Detection](https://github.com/julysoom/2018-Project/tree/master/2018-AI-Daejon/Screw-Defect-Detection)
 * [Recommendation Exercise](https://github.com/julysoom/2018-Project/tree/master/2018-AI-Daejon/Recommendation-Excercise)
+* [Natural-Language-Processing-Exercise](https://github.com/julysoom/2018-Project/tree/master/2018-AI-Daejon/Natural-Language-Processing-Exercise)
+* [Keras Exercise](https://github.com/julysoom/2018-Project/tree/master/2018-AI-Daejon/Keras-Exercise)
 ## 2018-Big-Contest
 * [NCSOFT Blade & Soul](https://github.com/julysoom/2018-Project/tree/master/2018-Big-Contest)
 ## 2018-Big-Data-X-Campus
